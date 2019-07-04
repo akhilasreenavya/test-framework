@@ -1,0 +1,7 @@
+<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-junit</artifactId>
+    <version>4.5.2</version>
+    <scope>test</scope>
+</dependency>
